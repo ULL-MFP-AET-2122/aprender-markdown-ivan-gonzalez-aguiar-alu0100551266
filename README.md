@@ -15,7 +15,9 @@ alert(mensaje);
 ```
 😎
 
-| Columna 1     | Columna 2 |
-| ----------- | ----------- |
-| Prueba     | Probando      |
-| Prueba 2  | probando otro        |
+| Columna 1   | Columna 2 |
+| ----------| ----------- |
+| Prueba    | Probando    |
+| Prueba 2  | probando otro|
+
+[Mi experiencia en el máster](https://github.com/ULL-MFP-AET-2122/aprender-markdown-ivan-gonzalez-aguiar-alu0100551266/blob/main/master.md)
