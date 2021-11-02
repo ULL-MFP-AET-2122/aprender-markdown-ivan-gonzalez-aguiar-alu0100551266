@@ -7,7 +7,9 @@
 - Programación y diseño web
 - Redes informáticas
 >Clear eyes, full hearts, can't lose.
-<p>Fragmento de código inline con html</p>
+<html>
+  <h2>Fragmento de código inline con html</h2>
+</html>
 
 ```javascript
 var mensaje = "hola";
